@@ -10,11 +10,6 @@
 
 ### Some Screenshots
 
-<p align="center">
-<img src="/assets/images/1.jpg" width="150" hight="600" />
-    
-<img src="/assets/images/2.jpg" width="150" hight="600" />
-    
-<img src="a/ssets/images/3.jpg" width="150" hight="600" />
-  
-</p>
+![1](https://github.com/imranjeet/Exercise-App/assets/48348342/95cb49af-8c2d-472f-850a-2343c3f827c5)
+![2](https://github.com/imranjeet/Exercise-App/assets/48348342/daedfbee-5db0-4eb5-99f4-4d0c5412d544)
+![3](https://github.com/imranjeet/Exercise-App/assets/48348342/ce70698c-69f2-4652-83a5-ce470ad0b614)
