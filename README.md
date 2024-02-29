@@ -1,7 +1,3 @@
-<!-- <h1 align="center">
-    <br>
-    Flutter-AI-Assistant
-</h1> -->
 ## Flutter-AI-Assistant
 ![](https://img.shields.io/github/last-commit/imranjeet/Flutter-AI-Assistant-using-chatGPT-and-dall-e.svg?label=last%20update&style=flat)
 <!-- <h4 align="start">
